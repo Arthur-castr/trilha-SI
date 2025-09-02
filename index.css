@@ -2,11 +2,11 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #252525;
     font-family: "Roboto", sans-serif;
 }
 header {
-    background-color: #0D1053;
+    background-color: #610C7D;
     align-items: center;
     overflow: auto;
     padding: 10px;
@@ -22,7 +22,7 @@ header {
     gap: 20px;
 }
 #identidade > p {
-    background-color: #0D1053;
+    background-color:  #610C7D;
     max-width: 500px;
     border-radius: 4px;
     padding: 15px;
@@ -40,7 +40,7 @@ header {
     gap: 20px;
 }
 .period {
-    background-color: #0D1053;
+    background-color:  #610C7D;
     color: aliceblue;
     padding: 20px;
     border-radius: 8px; /* Bordas arredondadas */
@@ -74,7 +74,7 @@ h1 {
     color: white;
 }
 footer{
-    background-color: #0D1053;
+    background-color:  #610C7D;
     color: white;
     padding: 20px;
     text-align: center;
@@ -141,8 +141,8 @@ footer{
     border-bottom: 3px solid transparent;
 }
 .tab-button.active {
-    color: #0D1053;
-    border-bottom: 3px solid #0D1053;
+    color:  #610C7D;
+    border-bottom: 3px solid  #610C7D;
     font-weight: bold;
 }
 .tab-content { display: none; }
@@ -205,8 +205,63 @@ footer{
     }
 }
 footer{
-    background-color: #0D1053;
+    background-color:  #610C7D;
 }
 #novapagina{
-    background-color: #0D1053;
+    background-color:  #610C7D;
 }
+
+/* --- ESTILOS (TEMA ESCURO) PARA AS PÁGINAS DE BÔNUS --- */
+.fundooutros{
+    background-color: #252525;
+}
+.content-page-wrapper {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px 40px; /* Aumentei o padding para mais "respiro" */
+    background-color: #252525; /* << FUNDO ESCURO AQUI */
+    color: #e0e0e0;           /* << Cor padrão do texto (claro) */
+    border-radius: 8px;       /* Bordas arredondadas para um visual moderno */
+    border: 1px solid #444;   /* Borda sutil para definir a área */
+}
+
+.content-page-wrapper h1 {
+    color: #ffffff; /* Título principal branco para máximo destaque */
+    text-align: left;
+    border-bottom: 3px solid #4a4e9b; /* Linha com um tom de azul do seu site para consistência */
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+.intro-text h2, .video-section h2 {
+    color: #fafafa; /* Subtítulos quase brancos */
+    font-size: 1.8em;
+    margin-bottom: 15px;
+}
+
+.intro-text p, .video-section p {
+    color: #c7c7c7; /* Cor do parágrafo (cinza claro confortável para ler) */
+    font-size: 1.1em;
+    line-height: 1.8; /* Espaçamento entre linhas maior para leitura em fundo escuro */
+}
+
+/* --- Container responsivo para vídeo (sem muitas mudanças) --- */
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* Proporção de 16:9 */
+    height: 0;
+    margin-top: 20px;
+    overflow: hidden;
+    border-radius: 8px;
+    border: 1px solid #444; /* Borda sutil também no vídeo */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
