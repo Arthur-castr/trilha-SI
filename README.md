@@ -70,7 +70,7 @@ Se você tem uma sugestão para melhorar o projeto, por favor, faça um fork do 
 **Arthur Castro**
 
 * GitHub: [@Arthur-castr](https://github.com/Arthur-castr)
-* LinkedIn: ``
+* LinkedIn: [arthur-castro](https://www.linkedin.com/in/arthur-castro-46b675245/)
 
 ## 📄 Licença
 
