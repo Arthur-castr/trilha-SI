@@ -91,6 +91,12 @@ Se você tem uma sugestão para melhorar o projeto, por favor, faça um fork do 
 * GitHub: [@Arthur-castr](https://github.com/Arthur-castr)
 * LinkedIn: [arthur-castro](https://www.linkedin.com/in/arthur-castro-46b675245/)
 
+## Colaboradores
+
+**Ana Luiza**
+
+* GitHub - [@github-ANALUIZA](https://github.com/ana-luiza-code)
+
 ## 📄 Licença
 
 Este projeto está sob a licença Apache 2.0. Veja o arquivo `LICENSE` para mais detalhes.
