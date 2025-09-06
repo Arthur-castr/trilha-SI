@@ -44,14 +44,33 @@ E pronto! Toda a funcionalidade é executada no lado do cliente.
 
 ## 🗺️ Próximos Passos (Roadmap)
 
-O projeto está em constante evolução. Os próximos passos planejados são:
+O projeto está em constante evolução para se tornar um portal cada vez mais completo e útil para os alunos. Os próximos passos planejados são:
 
-- [ ] **Adicionar Seção de Exercícios:** Popular a nova seção em cada matéria com listas de exercícios e ideias de projetos.(adicionada)
-- [ ] **Criar a Seção "Competências Fundamentais":** Desenvolver a página `outros.html` com trilhas para:(em processo)
-    - [ ] Inglês Técnico
-    - [ ] Montagem de Currículo e Portfólio
-    - [ ] Perspectivas de Mercado e Áreas de Atuação
-- [ ] **Manutenção Contínua:** Adicionar novos links e bibliografias conforme o curso evolui.
+### Fase 1: Conclusão das Seções de Conteúdo
+
+- [ ] **Finalizar a Seção "Competências Fundamentais"**: Concluir o desenvolvimento das páginas com trilhas de conhecimento para:
+  - [ ] Inglês Técnico
+  - [ ] Montagem de Currículo e Portfólio
+  - [ ] Perspectivas de Mercado e Áreas de Atuação
+
+### Fase 2: Expansão com a Seção "Vivência na Faculdade"
+
+O objetivo desta fase é integrar o aluno ao ambiente acadêmico, fornecendo informações práticas e destacando as oportunidades de pesquisa e desenvolvimento dentro da instituição.
+
+- [ ] **Criar o Painel "Locais Importantes"**:
+  - Desenvolver uma seção (página ou painel interativo) com um guia dos locais essenciais da faculdade (biblioteca, secretarias, laboratórios, etc.).
+  - Incluir funcionalidades como fotos, horários de funcionamento e uma breve descrição de cada local.
+
+- [ ] **Criar o Painel de Projetos Acadêmicos**:
+  - **Subseção "Projetos dos Professores"**:
+    - Criar uma vitrine para que os professores possam divulgar suas linhas de pesquisa e projetos, facilitando o contato para orientação e iniciação científica.
+  - **Subseção "Projetos dos Alunos"**:
+    - Criar um espaço para que os alunos possam exibir seus próprios projetos e portfólios, incentivando a colaboração e dando visibilidade aos trabalhos.
+
+### Manutenção Contínua
+
+- [ ] **Atualização de Conteúdo**: Adicionar novos links, bibliografias e exercícios conforme o curso e as tecnologias evoluem.
+- [ ] **Coleta de Feedback**: Implementar um canal para que os usuários possam sugerir melhorias, garantindo a qualidade e relevância do portal.
 
 ## 🤝 Como Contribuir
 
