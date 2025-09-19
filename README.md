@@ -99,11 +99,11 @@ Se você tem uma sugestão para melhorar o projeto, por favor, faça um fork do 
 
 **Luiz Araujo**
 
-* GitHub - [@github-LuizAraujo](https://github.com/ana-luiza-code)
+* GitHub - [@github-LuizAraujo](https://github.com/LuizArauj0)
 
 **Mateus Freitas**
 
-* GitHub - [@github-MateusFreitas](https://github.com/ana-luiza-code)
+* GitHub - [@github-MateusFreitas](https://github.com/mateusfrtd)
 
 ## 📄 Licença
 
