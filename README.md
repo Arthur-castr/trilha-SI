@@ -97,6 +97,14 @@ Se você tem uma sugestão para melhorar o projeto, por favor, faça um fork do 
 
 * GitHub - [@github-ANALUIZA](https://github.com/ana-luiza-code)
 
+**Luiz Araujo**
+
+* GitHub - [@github-LuizAraujo](https://github.com/ana-luiza-code)
+
+**Mateus Freitas**
+
+* GitHub - [@github-MateusFreitas](https://github.com/ana-luiza-code)
+
 ## 📄 Licença
 
 Este projeto está sob a licença Apache 2.0. Veja o arquivo `LICENSE` para mais detalhes.
