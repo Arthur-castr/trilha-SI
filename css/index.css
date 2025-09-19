@@ -20,6 +20,8 @@ header {
     display: flex;
     align-items: center;
     gap: 20px;
+    text-align: center;
+    justify-content: center;
 }
 #identidade > p {
     background-color:  #610C7D;
@@ -68,6 +70,7 @@ a {
 }
 .materia > a:hover {
     background-color: rgba(255, 255, 255, 0.1);
+    font-size: 17px;
 }
 h1 {
     text-align: center;
