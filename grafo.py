@@ -114,7 +114,7 @@ def menu():
         else:
             print("Opção inválida!\n")
 
-
+print("Colombia gostosao")
 arquivo_inicial = escolher_trilha()
 carregar_trilha(arquivo_inicial)
 menu()
