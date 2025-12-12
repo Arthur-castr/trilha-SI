@@ -115,7 +115,6 @@ def menu():
             print("Opção inválida!\n")
 
 
-# === INÍCIO DO PROGRAMA ===
 arquivo_inicial = escolher_trilha()
 carregar_trilha(arquivo_inicial)
 menu()
