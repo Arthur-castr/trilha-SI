@@ -111,6 +111,30 @@
                 </ul>
             </div>
         </div>
+        <div class="container">
+            <h2>Trilha de Estudos</h2>
+
+            <label for="materia">Selecione a Matéria:</label>
+            <select id="materia">
+                <option value="" disabled selected>Escolha...</option>
+                <option value="calculo1">Cálculo 1</option>
+                <option value="estrutura_dados">Estrutura de Dados</option>
+                <option value="programacao_c">C</option>
+                <option value="programacao_python">Python</option>
+                <option value="banco_de_dados">Banco de Dados</option>
+                <option value="sistemas_operacionais">Sistemas Operacionais</option>
+                <option value="redes_computadores">Redes Computadores</option>
+                <option value="engenharia_software">Engenharia Software</option>
+            </select>
+
+            <label for="conteudo">O que você quer aprender?</label>
+            <select id="conteudo" disabled>
+                <option value="" disabled selected>Escolha a matéria primeiro...</option>
+            </select>
+
+            <button onclick="buscarTrilha()">Gerar Trilha</button>
+
+            <div id="resultado-container"></div>
     </main>
 
     <aside id="aba-lateral">
